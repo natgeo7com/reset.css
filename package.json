@@ -1,8 +1,8 @@
 {
   "name": "natgeo7com-reset.css",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
-  "main": "reset.less",
+  "main": "reset.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
