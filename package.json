@@ -1,6 +1,6 @@
 {
-  "name": "natgeo7com-reset.css",
-  "version": "1.0.7",
+  "name": "natgeo7com-npm-reset.css",
+  "version": "1.0.0",
   "description": "",
   "main": "reset.scss",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natgeo7com/reset.css.git"
+    "url": "git+https://github.com/natgeo7com/natgeo7com-npm-reset.css.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/natgeo7com/reset.css/issues"
+    "url": "https://github.com/natgeo7com/natgeo7com-npm-reset.css/issues"
   },
-  "homepage": "https://github.com/natgeo7com/reset.css#readme"
+  "homepage": "https://github.com/natgeo7com/natgeo7com-npm-reset.css#readme"
 }
